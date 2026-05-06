@@ -6,5 +6,12 @@
     5- 9 numeric columns -> (float64(3), int64(6))
     6- 15 categorical columns
     7- fraude_reported -> target
-    8-  
-
+    8- Statistical summary from decribe function make sense
+    9- unknown value in collision_type
+    10- a lot of values in incident_city
+    11- unbalanced data
+    12- No typo 
+    13- different scale
+    14- no outliers
+    15- claim_amount -> almost skewed
+    
