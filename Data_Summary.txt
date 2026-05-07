@@ -1,17 +1,21 @@
 ## Import Libraries and Data Exploration
     1- shape -> 30000*24
     2- claim amount > total claim amount for some insurdes
-    3- authorities_contacted -> null values 
+    3- authorities_contacted -> null values  (after spiltting)
     4- incident_date -> wrong data type (from object to date)
     5- 9 numeric columns -> (float64(3), int64(6))
     6- 15 categorical columns
     7- fraude_reported -> target
     8- Statistical summary from decribe function make sense
-    9- unknown value in collision_type
-    10- a lot of values in incident_city
+    9- unknown value in collision_type -> keep it as it's
+    10- check relationship between incident_state, incident_severity, insured_occupation and fraude_repoeted
     11- unbalanced data
     12- No typo 
     13- different scale
     14- no outliers
     15- claim_amount -> almost skewed
+
+----------------------------------------------------------------------
+## Data preprocessing
+    1- convert 
     
