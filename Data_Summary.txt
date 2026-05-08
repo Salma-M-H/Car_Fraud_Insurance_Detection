@@ -18,4 +18,5 @@
 ----------------------------------------------------------------------
 ## Data preprocessing
     1- convert 
+    there is no insights from date columns
     
