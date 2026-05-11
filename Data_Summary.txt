@@ -14,9 +14,4 @@
     13- different scale
     14- no outliers
     15- claim_amount -> almost skewed
-
-----------------------------------------------------------------------
-## Data preprocessing
-    1- convert 
-    there is no insights from date columns
     
